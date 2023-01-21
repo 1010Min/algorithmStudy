@@ -1,1 +1,1 @@
-# algorithmStudy
+# Algorithm Study for Python
